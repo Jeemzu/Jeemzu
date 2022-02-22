@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeemzu
 - 👀 I’m interested in learning more about game development from both an engineering and higher level design perspective.
-- 🌱 I’m currently learning software testing methodologies and technologies such as Selenium Webdriver, Protractor, and RestAPI
+- 🌱 I’m currently learning a slew of software testing methodologies and technologies such as Selenium Webdriver, Protractor, and WebDriverI/O
 - 📫 How to reach me:
       jamesfriedenberg@gmail.com
       
